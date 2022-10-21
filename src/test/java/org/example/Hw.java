@@ -7,7 +7,7 @@ public class Hw {
 
     @Test
     public void exampleTest0() {
-        Assertions.assertFalse(2 <= 1);
+        Assertions.assertFalse(2 > 1);
     }
 
     @Test
